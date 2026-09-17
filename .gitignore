@@ -1,0 +1,17 @@
+# Other model checkpoints
+training/checkpoints/*.pt
+!training/checkpoints/best.pt
+
+# Training outputs
+outputs/
+
+# Training log
+screenlog.0
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
