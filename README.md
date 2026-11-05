@@ -181,7 +181,7 @@ a2e/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <https://github.com/Meri-03/A2Ev>
 cd a2e
 ```
 
